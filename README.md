@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pberkut&layout=compact)](https://github.com/pberkut)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=github-readme-stats)](https://github.com/pberkut/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-markup-hw-08)](https://github.com/pberkut/goit-markup-hw-08)
