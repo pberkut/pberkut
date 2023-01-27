@@ -24,4 +24,4 @@ Example projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-09)](https://github.com/pberkut/goit-js-hw-09)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-11git)](https://github.com/pberkut/goit-js-hw-11git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-11)](https://github.com/pberkut/goit-js-hw-11)
