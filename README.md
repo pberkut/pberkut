@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pberkut)](https://github.com/pberkut)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pberkut&layout=compact)](https://github.com/pberkut)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=github-readme-stats)](https://github.com/pberkut/github-readme-stats)
