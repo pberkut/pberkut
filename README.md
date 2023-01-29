@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">A passionate Full Stack JavaScript developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pberkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=p   berkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,19 +43,23 @@ Here are some ideas to get you started:
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pberkut&show_icons=true&locale=en&layout=compact" alt="pberkut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pberkut&show_icons=true&locale=en" alt="pberkut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pberkut&" alt="pberkut" /></p>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pberkut&show_icons=true)](https://github.com/pberkut)
+<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pberkut&show_icons=true)](https://github.com/pberkut) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pberkut&layout=compact)](https://github.com/pberkut)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pberkut&layout=compact)](https://github.com/pberkut) -->
 
-<h2 style="color: #fffde766;">My projects</h2>
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-markup-hw-08)](https://github.com/pberkut/goit-markup-hw-08)
+<h2 align="center">My projects</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-markup-hw-08)](https://github.com/pberkut/goit-markup-hw-08) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-09)](https://github.com/pberkut/goit-js-hw-09)
 
