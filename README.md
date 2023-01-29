@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pberkut&show_icons=true&locale=en&layout=compact" alt="pberkut" /></p>
 
+&shy;
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pberkut&" alt="pberkut" /></p>
 
 <!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pberkut&show_icons=true)](https://github.com/pberkut) -->
