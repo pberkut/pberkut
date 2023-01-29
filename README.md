@@ -1,6 +1,6 @@
-### Hi there 👋
+### 💻
 
-![](https://komarev.com/ghpvc/?username=pberkut)
+<!-- ![](https://komarev.com/ghpvc/?username=pberkut) -->
 
 <!--
 **pberkut/pberkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -54,7 +53,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pberkut&layout=compact)](https://github.com/pberkut)
 
-Example projects
+<h2 style="color: #fffde766;">My projects</h2>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-markup-hw-08)](https://github.com/pberkut/goit-markup-hw-08)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-09)](https://github.com/pberkut/goit-js-hw-09)
