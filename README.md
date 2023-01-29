@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">A passionate Full Stack JavaScript developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p   berkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pberkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
