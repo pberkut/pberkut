@@ -63,8 +63,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">My projects</h2>
 
+<p align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-markup-hw-08)](https://github.com/pberkut/goit-markup-hw-08) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-09)](https://github.com/pberkut/goit-js-hw-09)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-11)](https://github.com/pberkut/goit-js-hw-11)
+
+</p>
