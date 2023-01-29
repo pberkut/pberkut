@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/pberkut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pberkut" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pavlo-berkut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavlo-berkut" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
