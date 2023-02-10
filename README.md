@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">A passionate Full Stack JavaScript developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pberkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> </p>&nbsp;<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/5459?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pberkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> 
+&nbsp; 
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/5459?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
