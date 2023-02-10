@@ -78,6 +78,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=icecream-team-project)](https://github.com/pberkut/icecream-team-project)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=Filmoteka-team-project)](https://github.com/pberkut/Filmoteka-team-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=Filmoteka-t1eam-project)](https://github.com/pberkut/Filmoteka-team-project)
 
 </p>
