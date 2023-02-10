@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pberkut&show_icons=true&locale=en&layout=compact" alt="pberkut" /></p>
 
 &shy;
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pberkut&" alt="pberkut" /></p>
 
 <!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pberkut&show_icons=true)](https://github.com/pberkut) -->
@@ -67,8 +68,15 @@ Here are some ideas to get you started:
 
 <p align="center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-markup-hw-08)](https://github.com/pberkut/goit-markup-hw-08) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-09)](https://github.com/pberkut/goit-js-hw-09)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-markup-hw-08)](https://github.com/pberkut/goit-markup-hw-08)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-09)](https://github.com/pberkut/goit-js-hw-09)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-10)](https://github.com/pberkut/goit-js-hw-11) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-11)](https://github.com/pberkut/goit-js-hw-11)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-10)](https://github.com/pberkut/goit-js-hw-11)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&repo=goit-js-hw-11)](https://github.com/pberkut/goit-js-hw-11)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pberkut&Filmoteka-team-project)](https://github.com/pberkut/Filmoteka-team-project)
+&nbsp;
 
 </p>
