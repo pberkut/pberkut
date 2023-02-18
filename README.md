@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pberkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> 
 &nbsp; 
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/5459?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5459%26project%3D%26in%3D0">
 </p>
 
 <h3 align="left">Connect with me:</h3>
