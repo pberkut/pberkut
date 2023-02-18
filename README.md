@@ -1,13 +1,16 @@
 <p align="center">
-  <img src="./image/banner.jpg"/>
+  <img src="./image/welcome-banner.gif"/>
 </p>
 
 <!-- ### 💻 -->
 
-
+<p align="left">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpberkut%2Fhit-counter&count_bg=%232478B0&title_bg=%235D5D5D&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
-
-
+&nbsp;
+ <img src="https://komarev.com/ghpvc/?username=pberkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> 
+&nbsp; 
+<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5459%26project%3D%26in%3D0">
+</p>
 <!-- ![](https://komarev.com/ghpvc/?username=pberkut) -->
 
 <!--
@@ -29,11 +32,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">A passionate Full Stack JavaScript developer from Ukraine</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pberkut&label=Profile%20views&color=0e75b6&style=flat" alt="pberkut" /> 
-&nbsp; 
-<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5459%26project%3D%26in%3D0">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
