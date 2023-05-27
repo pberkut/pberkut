@@ -34,9 +34,17 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack JavaScript developer from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/pberkut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pberkut" height="30" width="40" /></a>
-</p>
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pavlo-berkut/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/pbDevOpen" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="telegram logo"  />
+  </a>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
